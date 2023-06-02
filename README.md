@@ -42,7 +42,8 @@
 <a href="https://github.com/kareen12" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/kareen ujjainiya" target="_blank">
+<!-- <a href="https://linkedin.com/in/kareen ujjainiya" target="_blank"> -->
+<a href="https://www.linkedin.com/in/kareen-ujjainiya-26b702236/" target="_blank>
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/kareenujjainiya" target="_blank">
@@ -55,11 +56,11 @@
 
 
 ## Github Stats  
-<table style="border:none" ><tr><td valign="top" width="50%">
+<table cellspacing="0"  ><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kareen12&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api?username=kareen12&show_icons=true&count_private=true&hide_border=true" align="left" height="190" width="400" />  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareen12&hide_border=true&layout=compact" align="right" width="300" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareen12&hide_border=true&layout=compact" align="right" width="400" />
 
 </td>
 <!--   <td valign="top" width="50%"></td> -->
