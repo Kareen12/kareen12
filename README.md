@@ -54,17 +54,25 @@
 
 <br/>  
 
+## Coding Profiles
+<p align = "left">
+<a href = "https://www.hackerrank.com/kareenujjainiya1?hr_r=1"><img src = "https://img.shields.io/badge/-Hackerrank-2EC866?style=oval-square&logo=HackerRank&logoColor=white"/></a>
+<a href = "https://leetcode.com/kareen12/"><img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=oval-square&logo=LeetCode&logoColor=white"/></a>
+<a href = "https://auth.geeksforgeeks.org/user/kareenujjatyrh/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user"><img src = "https://img.shields.io/badge/GeeksforGeeks-298D46?style=oval-square&logo=geeksforgeeks&logoColor=white"/></a>
+<a href = "https://www.codechef.com/users/kareen"><img src = "https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white"/></a>
+</p><br>
+
 
 ## Github Stats  
-<table cellspacing="0"  ><tr><td valign="top" width="50%">
+<p align="center" >
 
-<img src="https://github-readme-stats.vercel.app/api?username=kareen12&show_icons=true&count_private=true&hide_border=true" align="left" height="190" width="400" />  
+<img src="https://github-readme-stats.vercel.app/api?username=kareen12&show_icons=true&count_private=true&hide_border=true" height="200px" />  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareen12&hide_border=true&layout=compact" align="right" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareen12&hide_border=true&layout=compact" height="200px" />
 
-</td>
+
 <!--   <td valign="top" width="50%"></td> -->
-  </tr></table>  
+  
 
 <br/>  
 
