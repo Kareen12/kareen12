@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning MERN Stack  
   
 
-- 📫 Reach me at kareenujjainiya222@gmail.com  or 8839171553
+- 📫 Reach me at kareenujjainiya222@gmail.com  
   
 
 - 👯 I’m looking to collaborate on Web development projects  
